@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "926929916443",
+    "project_id": "projetsahelhabitat",
+    "storage_bucket": "projetsahelhabitat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926929916443:android:c9be71859135365504debe",
+        "android_client_info": {
+          "package_name": "com.example.sahel_habitat_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926929916443-9e96bgegdpi87sfeoh5o3p88eh93rghe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlKJ2b1x4epNtiDFdX_6-zHie5ZazqFG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926929916443-9e96bgegdpi87sfeoh5o3p88eh93rghe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
